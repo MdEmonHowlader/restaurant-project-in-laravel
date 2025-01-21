@@ -95,7 +95,7 @@
     <div id="wrapper" class="hasbg transparent">
         @include('frontend.includes.nevber')
 
-        <div id="option_wrapper">
+        {{-- <div id="option_wrapper">
             <div class="inner">
                 <div style="text-align:center">
                     <div class="purchase_theme_button">
@@ -402,8 +402,8 @@
                     </ul>
                 </div>
             </div>
-        </div>
-        <div id="option_btn">
+        </div> --}}
+        {{-- <div id="option_btn">
             <a href="javascript:;" class="demotip" title="Choose Theme Demo"><span class="ti-settings"></span></a>
 
             <a href="https://themes.themegoods.com/grandrestaurantv6/landing/showcase" class="demotip"
@@ -414,7 +414,7 @@
 
             <a href="https://1.envato.market/AWGYyD" class="demotip" title="Purchase Theme" target="_blank"><span
                     class="ti-shopping-cart"></span></a>
-        </div>
+        </div> --}}
 
 
         <!-- Begin content -->
